@@ -8,6 +8,9 @@ Project Supervisor: Dr Nic Geard & Dr Rebecca Chisholm , University of Melbourne
 Description: This repository contains code written and used for my Master's theis research project.
              Basis of code was from a previous student's work.Based on work done by previous student and Model
              found in Buckee et al.(2004,2007).
+           
+Thesis Paper can be found at https://www.linkedin.com/in/spike-lee/
+
              
 Files:
 * LHS.py : Latin HyperCube Sampling(LHS) of parameters for Models
