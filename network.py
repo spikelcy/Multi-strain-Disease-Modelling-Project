@@ -9,16 +9,15 @@ import copy
 
 
 """
-Multistrain Disease Modelling Project
+Multistrain Disease Network Functions and Model
 
 Author: Spike Lee
 Project Supervisor: Dr Nic Geard & Dr Rebecca Chisholm , University of Melbourne.
 
-Description: this file includes the functions used to run the model. Based on work done by previous student and Model
-             found in Buckee et al.(2004)
+Description: this file includes the functions used to run the network model. Based on work done by previous student and Model
+             found in Buckee et al.
              
-Reference: Buckee, C., Danon, L., & Gupta, S. (2007). Host community structure and the maintenance of
-pathogen diversity. Proceedings of the Royal Society B: Biological Sciences, 274(1619), 1715-1721
+
 """
 
 # Check for loss of immunity
